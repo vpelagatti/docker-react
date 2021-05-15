@@ -8,4 +8,3 @@ before_install:
 
 script:
   - docker run vpelagatti/docker-react npm run test -- --coverage
-
